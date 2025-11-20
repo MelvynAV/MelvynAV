@@ -1,5 +1,106 @@
-$ cat profile.txt
-> Name : Melvyn Avoa
-> Studies : uOttawa | Computer Science (3rd year)
-> Skills: Python, Linux, Java, Google Cloud, C, Go, Scheme, Prolog
-> Internship research : Available Summer 2026
+# 🏀 MELVYN AVOA | CS Student @uOttawa 💻
+
+<h5 align="center" style="color:#FF6600;">DRIVING TO THE NET: CYBERSECURITY, CLOUD, & AI/ML</h5>
+
+---
+
+### 📣 ANNOUNCEMENT: Open for SUMMER 2026 INTERNSHIP Opportunities 📣
+
+## ⛹️ Player Profile: Melvyn Avoa
+
+* **Player Name :** Melvyn Avoa
+* **Team :** University of Ottawa
+* **Position (Program):** 3rd Year, Bachelor of Computer Science
+* **Strengths (Specializations):** 🛡️ **Cybersecurity**, ☁️ **Cloud Computing**, and 🧠 **AI/Machine Learning**.
+* **Draft Status (Objective):** Actively seeking **SUMMER 2026 internship opportunities** (May - August).
+* **Game Plan (Motivation):** Eager to leverage strong theoretical knowledge into real-world projects and secure a high-value co-op experience.
+
+---
+### 🏀 Playmakers (Programming Languages)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&colorB=FF6600" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&colorB=FF6600" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&colorB=FF6600" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&colorB=FF6600" alt="C++ Badge"/>
+</p>
+
+### 🧱 Offensive Strategy (Frameworks & Backend)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&colorB=FF6600" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&colorB=FF6600" alt="Spring Boot Badge"/>
+</p>
+
+### 🛡️ Defense & Infrastructure (Tools & Cloud)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&colorB=FF6600" alt="SQL Badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&colorB=FF6600" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&colorB=FF6600" alt="Google Cloud Badge"/>
+</p>
+
+## 📈 Game Stats: My GitHub Activity
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=MelvynAv&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&line_height=25" 
+         alt="Melvyn Avoa GitHub Stats" 
+         style="width: 30%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelvynAv&layout=compact&theme=vue-dark&hide_border=true" 
+         alt="Top Languages Used" 
+         style="width: 30%;"/>
+</p>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=MelvynAv&theme=flat&no-frame=true&no-bg=true&rank_icon=basketball" 
+         alt="Melvyn Avoa GitHub Trophies" 
+         style="margin-top: 5px;"/>
+</p>
+
+---
+
+## 🏀 The Highlight Reel: Projects that Define My Game
+### CODE HARD. PLAY HARD. INTERN HARDER.
+
+---
+
+### 1. 🛡️ Cybersecurity Project Focus (TBD)
+
+* **Goal:** 
+* **Status:** **To Be Completed.** (Targeting Q1 2026)
+* **Targeted Technologies:** 
+* **Demonstrates:**
+* **Repository Link:**
+
+---
+
+### 2. ☁️ Cloud & Infrastructure Focus (TBD)
+
+* **Goal:** 
+* **Status:** **To Be Completed.** (Targeting Q1 2026)
+* **Targeted Technologies:** 
+* **Demonstrates:** 
+* **Repository Link:** *TBD (Link will be added upon project completion)*
+
+---
+
+### 3. 🧠 AI/Machine Learning Focus (TBD)
+
+* **Goal:** D
+* **Status:** **To Be Completed.** (Targeting Q2 2026)
+* **Targeted Technologies:** 
+* **Demonstrates:** 
+* **Repository Link:** *TBD (Link will be added upon project completion)*
+
+---
+## 📞 Final Whistle: Connect & Validate Activity
+## 🔗 Contact & Network
+* **📄 Resume/CV:** [View My Resume](https://drive.google.com/file/d/1h3vlYEATeW0REIGZQ2GjVvd2oe8eCqj-/view) 
+* **LinkedIn:** [My LinkedIn profile](www.linkedin.com/in/melvyn-avoa-487032384)
+* **Email:** [melvyn.avoa@gmail.com](mailto:melvyn.avoa@gmail.com)
+<p align="left">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="mailto:melvyn.avoa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+</p>
+
+---
