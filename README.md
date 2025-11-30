@@ -64,13 +64,19 @@
 
 ---
 
-### 1. 🛡️ Cybersecurity Project Focus (TBD)
+##1 : 🛡️ GabrielAI: Machine Learning Phishing Detection Engine
+Goal: Develop a real-time detection tool capable of identifying "zero-day" phishing attempts by analyzing URL structure and lexical features, rather than relying on traditional static blacklists.
 
-* **Goal:** 
-* **Status:** **To Be Completed.** (Targeting Q1 2026)
-* **Targeted Technologies:** 
-* **Demonstrates:**
-* **Repository Link:**
+Status: v1.0 Completed & Deployed (November 2025). Optimization and API integration planned for Q1 2026.
+Targeted Technologies: Python 3.10, Scikit-Learn (Random Forest), Pandas/NumPy, Streamlit Cloud, Git/GitHub.
+
+Demonstrates:
+Applied Machine Learning: Implementation of Feature Engineering to translate raw URLs into numerical vectors for threat analysis.
+Threat Intelligence: Understanding of common obfuscation techniques (IP usage, URL depth, character masking) used in social engineering attacks.
+Full-Stack Development: Built an end-to-end pipeline from data extraction to a functional web interface.
+Research & Methodology: Ability to evaluate model precision and minimize false positives in a security context.
+
+**Repository Link: https://github.com/MelvynAv/GabrielAi**
 
 ---
 
