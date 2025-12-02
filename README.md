@@ -105,7 +105,7 @@ Research & Methodology: Ability to evaluate model precision and minimize false p
 * **LinkedIn:** [My LinkedIn profile](www.linkedin.com/in/melvyn-avoa-487032384)
 * **Email:** [melvyn.avoa@gmail.com](mailto:melvyn.avoa@gmail.com)
 <p align="left">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="www.linkedin.com/in/melvyn-avoa-487032384" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
     <a href="mailto:melvyn.avoa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/></a>
 </p>
 
