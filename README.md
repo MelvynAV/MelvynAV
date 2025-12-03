@@ -80,7 +80,7 @@ Research & Methodology: Ability to evaluate model precision and minimize false p
 
 ---
 
-### 2. ☁️ Cloud & Infrastructure Focus (TBD)
+### 2. ☁️ Network 
 
 * **Goal:** 
 * **Status:** **To Be Completed.** (Targeting Q1 2026)
