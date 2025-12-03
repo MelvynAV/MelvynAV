@@ -82,7 +82,7 @@ Research & Methodology: Ability to evaluate model precision and minimize false p
 
 ### 2. ☁️ Network 
 
-### 📡 [SignalStream](https://github.com/MelvynAV/SignalStream)
+### 📡 [SignalStream](https://github.com/MelvynAV/signal-stream)
 **Real-Time Network Telemetry Dashboard**
 * **Tech:** Python (FastAPI), React, WebSockets, AsyncIO, AWS EC2.
 * **About:** A full-stack monitoring tool that streams network latency metrics in real-time (500ms intervals). Features an automated **Anomaly Detection Engine** to flag network degradation instantly.
