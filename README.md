@@ -58,18 +58,14 @@
 </p>
 
 ---
-
 ## 🏀 The Highlight Reel: Projects that Define My Game
 ### CODE HARD. PLAY HARD. INTERN HARDER.
-
 ---
-
 ##1 : 🛡️ GabrielAI: Machine Learning Phishing Detection Engine
-Goal: Develop a real-time detection tool capable of identifying "zero-day" phishing attempts by analyzing URL structure and lexical features, rather than relying on traditional static blacklists.
 
+Goal: Develop a real-time detection tool capable of identifying "zero-day" phishing attempts by analyzing URL structure and lexical features, rather than relying on traditional static blacklists.
 Status: v1.0 Completed & Deployed (November 2025). Optimization and API integration planned for Q1 2026.
 Targeted Technologies: Python 3.10, Scikit-Learn (Random Forest), Pandas/NumPy, Streamlit Cloud, Git/GitHub.
-
 Demonstrates:
 Applied Machine Learning: Implementation of Feature Engineering to translate raw URLs into numerical vectors for threat analysis.
 Threat Intelligence: Understanding of common obfuscation techniques (IP usage, URL depth, character masking) used in social engineering attacks.
@@ -77,12 +73,11 @@ Full-Stack Development: Built an end-to-end pipeline from data extraction to a f
 Research & Methodology: Ability to evaluate model precision and minimize false positives in a security context.
 
 **Repository Link: https://github.com/MelvynAv/GabrielAi**
-
 ---
-
-### 2. ☁️ Network 
-
+### 2. ☁️ Network - **Repository Link: https://github.com/MelvynAv/signal-stream**
 ### 📡 [SignalStream](https://github.com/MelvynAV/signal-stream)
+### 📡 [LIVE DEMO](https://signal-stream-demo.onrender.com/)
+**Demo Link: https://signal-stream-demo.onrender.com**
 **Real-Time Network Telemetry Dashboard**
 * **Tech:** Python (FastAPI), React, WebSockets, AsyncIO, AWS EC2.
 * **About:** A full-stack monitoring tool that streams network latency metrics in real-time (500ms intervals). Features an automated **Anomaly Detection Engine** to flag network degradation instantly.
