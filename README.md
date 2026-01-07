@@ -63,6 +63,8 @@
 ---
 ##1 : 🛡️ GabrielAI: Machine Learning Phishing Detection Engine
 
+**Live Demo** : https://gabrielaiv1.streamlit.app/
+
 Goal: Develop a real-time detection tool capable of identifying "zero-day" phishing attempts by analyzing URL structure and lexical features, rather than relying on traditional static blacklists.
 Status: v1.0 Completed & Deployed (November 2025). Optimization and API integration planned for Q1 2026.
 Targeted Technologies: Python 3.10, Scikit-Learn (Random Forest), Pandas/NumPy, Streamlit Cloud, Git/GitHub.
@@ -85,13 +87,14 @@ Research & Methodology: Ability to evaluate model precision and minimize false p
 
 ---
 
-### 3. 🧠 AI/Machine Learning Focus (TBD)
+### 3. 🧠 Physical AI - Physicast
 
-* **Goal:** D
-* **Status:** **To Be Completed.** (Targeting Q2 2026)
-* **Targeted Technologies:** 
-* **Demonstrates:** 
-* **Repository Link:** *TBD (Link will be added upon project completion)*
+* **Goal:** To bridge the gap between raw computer vision and high-level semantic reasoning by enabling autonomous systems to "describe" and "understand" the physical spaces they occupy.
+* **Status:** Completed and deployed live (Q1 2026)
+* **Targeted Technologies:** Python, FastAPI, YOLOv8 (Computer Vision), Groq LPU Inference, Llama 3.3 (LLM), and Render (Cloud Infrastructure).
+* **Demonstrates:** Real-time object detection, spatial coordinate extraction, 3D context-aware reasoning, and secure cloud deployment (DevSecOps).
+* **Repository Link:** https://github.com/MelvynAv/physicast
+* **Live demo** : https://physicast.onrender.com
 
 ---
 ## 📞 Final Whistle: Connect & Validate Activity
