@@ -99,7 +99,7 @@ Research & Methodology: Ability to evaluate model precision and minimize false p
 ---
 ## 📞 Final Whistle: Connect & Validate Activity
 ## 🔗 Contact & Network
-* **📄Resume/CV:** [View My Resume](https://docs.google.com/document/d/1sw85VX_n1x8NkZNCsuQfqmpG_dObbR89/edit?usp=sharing&ouid=117596939569486879905&rtpof=true&sd=true) 
+* **📄Resume/CV:** [View My Resume](https://docs.google.com/document/d/1gDmCsujPqyS4wCFhb3YCVU7y_Sn42DzfZPIPGyYh0eg/edit?usp=sharing) 
 * **LinkedIn:** [My LinkedIn profile](www.linkedin.com/in/melvyn-avoa-487032384)
 * **Email:** [melvyn.avoa@gmail.com](mailto:melvyn.avoa@gmail.com)
 <p align="left">
