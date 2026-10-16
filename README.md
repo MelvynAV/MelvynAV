@@ -4,7 +4,7 @@
 
 ---
 
-### 📣 ANNOUNCEMENT: Open for SUMMER 2026 INTERNSHIP Opportunities 📣
+### 📣 ANNOUNCEMENT: Open for SUMMER 2027 New Grad Opportunities 📣
 
 ## ⛹️ Player Profile: Melvyn Avoa
 
