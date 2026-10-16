@@ -4,7 +4,7 @@
 
 ---
 
-### 📣 ANNOUNCEMENT: Open for SUMMER 2027 New Grad Opportunities 📣
+### 📣 ANNOUNCEMENT: Open for New Grad Opportunities 📣
 
 ## ⛹️ Player Profile: Melvyn Avoa
 
